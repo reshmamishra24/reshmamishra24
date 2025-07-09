@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reshma Mishra</h1>
 
-<p align="center">
-  <b>BTech CSE'26 | Aspiring Data Analyst |</b><br>
-  📊 Excel | 🌐 HTML/CSS |🐬 SQL (Learning) | 📈 Power BI (Upcoming)
-</p>
-
 ### 🧠 About Me
 
 - 🎓 I'm currently pursuing **BTech in Computer Science (2026 batch)**
