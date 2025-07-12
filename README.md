@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Reshma Mishra</h1>
 
+<p align="center">
+  <em>Passionate about Data Analytics, Dashboards & Turning Numbers into Insights.</em>
+</p>
+
 ### 🧠 About Me
 
 - 🎓 I'm currently pursuing **BTech in Computer Science (2026 batch)**
-- 💡 Passionate about **data visualization and dashboarding**
-- 🔭 Currently working on Excel Dashboards
-- 🌱 Learning: **SQL**, **Power BI**
+- 💡 Passionate about **data analytics and dashboard creation**
+- 🔭 Currently working on Excel-based Dashboards projects 
+- 🌱 Learning: **SQL**, **Power BI** 
 
 ### 💼 Skills & Tools
 
