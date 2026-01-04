@@ -1,28 +1,22 @@
 <h1 align="center">Hi 👋, I'm Reshma Mishra</h1>
 
 <p align="center">
-  <em>Aspiring  Data Analyst| Excel | SQL | Power BI | Python |Dashboards & Turning Data into Insights.</em>
+  <em>Data Analyst| Excel | SQL | Power BI | Python |Dashboards & Turning Data into Insights.</em>
 </p>
 
 ## 💡 About Me  
 - 🎓 Pursuing B.Tech in Computer Science (Batch 2026)  
-- 📊 Aspiring Data Analyst, passionate about transforming raw data into insights  
-- 📈 Skilled in creating interactive dashboards using *Excel* & *Power BI*  
-- 🐍 Currently learning Python & SQL for data cleaning, analysis, and automation  
-- 🚀 On a journey to strengthen my skills in Business Intelligence & Analytics  
-- 🌱 Firm believer in *“Learning by Doing”* – building projects to sharpen practical knowledge
-
-
+- 📊 Passionate about data storytelling, business insights, and visualization. 
+- 🔍 Currently learning Advanced Excel, Power BI, and Predictive analytics.
+  
+- 📌I love exploring data-driven projects and sharing insights through dashboards and reports.
+  
 ### 💼 Skills & Tools
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40"/> &nbsp;
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" width="40"/> &nbsp;
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="40"/> &nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="SQL" width="40"/> &nbsp;
-  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40"/> &nbsp;
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40"/>
-</p>
+![Excel](https://img.shields.io/badge/Excel-0072C6?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📫 Let's Connect
 
