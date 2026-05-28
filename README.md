@@ -36,23 +36,4 @@
 
 ---
 
-### 📌 Certification 2  
-🔗 View Certificate  
-<img src="https://github.com/reshmamishra24/reshmamishra24/blob/main/Gen-AI%20Workshop%20Certificate.png"/>
-
----
-
-### 📌 Certification 3  
-🔗 View Certificate  
-<img src="https://github.com/reshmamishra24/reshmamishra24/blob/main/Data%20Analytics%20Internship%20Certificate.png"/>
-
----
-
-### 📌 Certification 4  
-🔗 View Certificate  
-<img src="https://github.com/reshmamishra24/reshmamishra24/blob/main/Microsoft%20PowerBI%20%20Certificate.png"/>
-
----
-
-
 ⭐ *Thanks for visiting my GitHub profile! 
